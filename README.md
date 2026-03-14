@@ -59,3 +59,11 @@ The dashboard provides:
 - Power BI
 - DAX
 - Excel
+
+## Dashboard Preview
+
+### Credit Card Transaction Analysis
+![Dashboard1](images/dashboard1.png)
+
+### Customer Insights
+![Dashboard2](images/dashboard2.png)

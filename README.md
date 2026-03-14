@@ -1,3 +1,5 @@
+# Credit Card Portfolio Performance Dashboard
+
 ## Project Objective
 The objective of this project is to build an interactive Power BI dashboard to monitor credit card portfolio performance. 
 The dashboard provides real-time insights into key metrics such as revenue, transactions, customer activity, and delinquency trends to support business decision making.

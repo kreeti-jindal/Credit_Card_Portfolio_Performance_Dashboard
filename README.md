@@ -63,7 +63,7 @@ The dashboard provides:
 ## Dashboard Preview
 
 ### Credit Card Transaction Analysis
-![Dashboard1](images/dashboard1.png)
+![Dashboard1](images/dashboard1.pdf)
 
 ### Customer Insights
-![Dashboard2](images/dashboard2.png)
+![Dashboard2](images/dashboard2.pdf)

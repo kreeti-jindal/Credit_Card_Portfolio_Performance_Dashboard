@@ -66,4 +66,4 @@ The dashboard provides:
 ![Dashboard1](images/dashboard1.pdf)
 
 ### Customer Insights
-![Dashboard2](images/dashboard2.pdf)
+![Dashboard2](Credit Card Customer Report.pdf)
